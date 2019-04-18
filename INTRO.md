@@ -1,4 +1,4 @@
-story.chachaville.com
+(This blog will eventually live at story.chachaville.com)
 
 # Immersive Storyboarding
 Follow along as I develop a practice of immersive storyboarding.
