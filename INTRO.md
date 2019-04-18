@@ -8,25 +8,33 @@ A definition:
 
 *Immersive storyboarding is a practice of creating four-dimensional sketches to develop and describe stories in immersive media.*
 
-You can think of this like traditional storyboards, except the story or animatic progresses around you.
+Like traditional storyboards, except the story or animatic progresses around you.
 
-- App-in-development [StoryCubes (?) name TBD]
-- PSA: VR makes me sick
+- App-in-development [name TBD]
+- PSA: VR makes me sick (see below)
 
 ## Uses of Immersive Storyboarding
-You can design an immersive animation, a VR or AR (XR) experience or game, any sort of story or spatial plan or walkthrough for an experience, projection mapping, or a holodeck simulation (coming 2079).
+To design
+- an immersive animation
+- a VR or AR (XR) experience (including games)
+- any sort of story or spatial plan or walkthrough for an experience
+- projection mapping
+- holodeck simulation
 
 ## Traditional Storyboards
-Traditional storyboarding ([Storyboard - Wikipedia](https://en.wikipedia.org/wiki/Storyboard)) is a process of making two-dimensional flat renderings that emulate what will be projected to a two-dimensional screen, for commercials, TV, film, 2d & 3d animation, and even occasionally web apps or for teaching.
+Traditional storyboarding ([Storyboard - Wikipedia](https://en.wikipedia.org/wiki/Storyboard)) is a process of making two-dimensional flat renderings that emulate what will be projected to a two-dimensional screen: for commercials, TV, film, 2d & 3d animation, web apps or for teaching.
 
-These sequential drawings take us through a narrative, and help us test the ideas. Quick pencil sketches let you play out an idea, and see what it might look like. As you create the sketches, you can revise the story, character, pacing, it’s light-weight and low-cost, and helps you make changes before you make “the good version.” If you work with a team, it helps explain what you are going for, like a wireframe or a blueprint, but for a story.
+These sequential drawings take us through a narrative, and help us test the ideas.
+
+Quick pencil sketches let you play out an idea, and see what it might look like. As you create the sketches, you can revise the story, character, pacing, it’s light-weight and low-cost, and helps you make changes before you make “the good version.” If you work with a team, it helps explain what you are going for, like a wireframe or a blueprint, but for a story.
 
 Story artists and illustrations use the medium of storyboards to develop the action and dialogue of scenes in animation and film scenes, or evolve these drawings into panels of comic books and graphic novels.
 
-Professionally, Storyboarder Pro is the 2d animation industry standard tool. Storyboarder App is a free, lightweight storyboarding tool.
+Professionally, Storyboarder Pro is the 2d animation industry standard tool.
+Storyboarder App is a free, lightweight storyboarding tool.
 
 ## Technology
-The main tools are newly released 360-degree artist tools tools such as Oculus [Quill | Oculus](https://www.oculus.com/experiences/rift/1118609381580656/) and Nvrmind’s AnimVR ([NVRMIND™](https://nvrmind.io/), which are similar to [Tilt Brush by Google](https://www.tiltbrush.com/), but which focus on artist creation and animated sketching (Quill) and 3d-to-2d video editing of immersive animations (AnimVR). Other useful tools: Oculus Medium for 3d modelling (you can import a model as a reference/armature and then paint around it.) Gravity Sketch for more "vector-like" modelling. Google Poly (?) for low polygon shapes.
+The main tools are newly released 360-degree artist tools tools such as Oculus [Quill | Oculus](https://www.oculus.com/experiences/rift/1118609381580656/) and Nvrmind’s AnimVR ([NVRMIND™](https://nvrmind.io/), which are similar to [Tilt Brush by Google](https://www.tiltbrush.com/), but which focus on artist creation and animated sketching (Quill) and 3d-to-2d video editing of immersive animations (AnimVR). Other useful tools: Oculus Medium for 3d modeling (you can import a model as a reference/armature and then paint around it.) Gravity Sketch for more "vector-like" modeling. Google Poly (?) for low polygon shapes.
 
 Additionally, for sound, you can create spatialized audio, and experiment with blending regular audio with ambient atmospheric sounds, sound effects, and character narrative. Adobe Audition lets you play a little bit with spatialized audio (and is part of Creative Cloud.) Other tools exist but are several hundreds of dollars, I have not tried them and probably will not.
 
